@@ -13,3 +13,5 @@ Inspired by a [tweet](https://twitter.com/spjpgrd/status/921459293089656837) by 
  3. Done 🎉
 
  You'll find the plugin under `Plugins > Sort Colors > Sort by Hue`.
+
+ ![Exmaple GIF](./example.gif)
