@@ -1,0 +1,25 @@
+{
+  "name": "Sort Background Colors",
+  "identifier": "com.julianburr.sort-background-colors",
+  "description": "Sort Layers by Background Color",
+  "authorEmail": "hello@julianburr.de",
+  "author": "Julian Burr",
+  "version": "0.0.1",
+  "commands": [
+    {
+      "script": "plugin.js",
+      "handler": "sortByHue",
+      "name": "Sort By Hue",
+      "identifier": "sortByHue"
+    }
+  ],
+  "menu": {
+    "isRoot": 1,
+    "items": [{
+      "title": "Sort Colors",
+      "items": [
+        "sortByHue"
+      ]
+    }]
+  }
+}
