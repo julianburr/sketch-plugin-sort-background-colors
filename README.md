@@ -11,3 +11,5 @@ Inspired by a [tweet](https://twitter.com/spjpgrd/status/921459293089656837) by 
  1. [Download](https://github.com/julianburr/sketch-plugin-sort-background-colors/archive/master.zip) latest version of this repo
  2. Unzip and double click on the **sort-background-colors.sketchplugin** file to install plugin
  3. Done 🎉
+
+ You'll find the plugin under `Plugins > Sort Colors > Sort by Hue`.
